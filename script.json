@@ -1,0 +1,118 @@
+{
+    "results": [
+      {
+        "gender": "male",
+        "name": {
+          "first": "İbrahim Bekir",
+          "last": "Bektaş"
+        },
+        "location": {
+          "city": "Ankara",
+          "country": "Turkey"
+        },
+        "bilgi":{
+            "email": "ajibaibrahimbekirbektas@gmail.com"
+        },
+        "picture": {
+          "large": "https://avatars.githubusercontent.com/u/83498865?v=4",
+          "medium": "https://avatars.githubusercontent.com/u/83498865?v=4",
+          "thumbnail": "https://avatars.githubusercontent.com/u/83498865?v=4"
+        }
+      },
+      {
+        "gender": "male",
+        "name": {
+          "first": "Halit",
+          "last": "Bektaş"
+        },
+        "location": {
+          "city": "Ankara",
+          "country": "fransa"
+        },
+        "bilgi":{
+            "email": "deneme@example.com"
+        },
+        "picture": {
+          "large": "https://avatars.githubusercontent.com/u/83498865?v=4",
+          "medium": "https://avatars.githubusercontent.com/u/83498865?v=4",
+          "thumbnail": "https://avatars.githubusercontent.com/u/83498865?v=4"
+        }
+      },
+      {
+        "gender": "male",
+        "name": {
+          "first": "Özgül",
+          "last": "Bektaş"
+        },
+        "location": {
+          "city": "Ankara",
+          "country": "Almanaya"
+        },
+        "bilgi":{
+            "email": "deneme@example.com"
+        },
+        "picture": {
+          "large": "https://avatars.githubusercontent.com/u/83498865?v=4",
+          "medium": "https://avatars.githubusercontent.com/u/83498865?v=4",
+          "thumbnail": "https://avatars.githubusercontent.com/u/83498865?v=4"
+        }
+      },
+      {
+        "gender": "male",
+        "name": {
+          "first": "ismail",
+          "last": "Bektaş"
+        },
+        "location": {
+          "city": "Ankara",
+          "country": "colonbia"
+        },
+        "bilgi":{
+            "email": "deneme@example.com"
+        },
+        "picture": {
+          "large": "https://avatars.githubusercontent.com/u/83498865?v=4",
+          "medium": "https://avatars.githubusercontent.com/u/83498865?v=4",
+          "thumbnail": "https://avatars.githubusercontent.com/u/83498865?v=4"
+        }
+      },
+      {
+        "gender": "male",
+        "name": {
+          "first": "namık",
+          "last": "Bektaş"
+        },
+        "location": {
+          "city": "sohum",
+          "country": "abhazya"
+        },
+        "bilgi":{
+            "email": "deli@gmail.com"
+        },
+        "picture": {
+          "large": "https://avatars.githubusercontent.com/u/83498865?v=4",
+          "medium": "https://avatars.githubusercontent.com/u/83498865?v=4",
+          "thumbnail": "https://avatars.githubusercontent.com/u/83498865?v=4"
+        }
+      },
+      {
+        "gender": "male",
+        "name": {
+          "first": "uslam",
+          "last": "Bektaş"
+        },
+        "location": {
+          "city": "ulan batur",
+          "country": "moğolistan"
+        },
+        "bilgi":{
+            "email": "deneme@example.com"
+        },
+        "picture": {
+          "large": "https://avatars.githubusercontent.com/u/83498865?v=4",
+          "medium": "https://avatars.githubusercontent.com/u/83498865?v=4",
+          "thumbnail": "https://avatars.githubusercontent.com/u/83498865?v=4"
+        }
+      }
+    ]
+}

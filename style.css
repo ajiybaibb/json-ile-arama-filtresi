@@ -16,10 +16,11 @@ body {
 }
 
 .container {
-    box-shadow: 0px 0px 3pc 13px rgb(93 0 224);
+    box-shadow: 0px 0px 3pc 13px crimson;
     overflow: hidden;
-    width: 300px;
+    width: -webkit-fill-available;
     border-radius: 20px;
+    margin: 3pc;
 }
 
 .title {
@@ -33,7 +34,7 @@ body {
 }
 
 .header {
-    background-color: #3e57db;
+    background-color: crimson;
     color: #fff;
     padding: 30px 20px;
 }
@@ -91,4 +92,12 @@ body {
 
 .user-list li.hide {
     display: none;
+}
+
+a{
+    color: crimson;
+    text-decoration: none;
+}
+a:hover{
+    text-decoration: underline;
 }

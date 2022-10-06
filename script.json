@@ -1,7 +1,6 @@
 {
     "results": [
       {
-        "gender": "male",
         "name": {
           "first": "İbrahim Bekir",
           "last": "Bektaş"
@@ -20,17 +19,16 @@
         }
       },
       {
-        "gender": "male",
         "name": {
-          "first": "Halit",
+          "first": "Halil",
           "last": "Bektaş"
         },
         "location": {
           "city": "Ankara",
-          "country": "fransa"
+          "country": "Türkiye"
         },
         "bilgi":{
-            "email": "deneme@example.com"
+            "email": "halilbektas@gmail.com"
         },
         "picture": {
           "large": "https://avatars.githubusercontent.com/u/83498865?v=4",
@@ -39,17 +37,16 @@
         }
       },
       {
-        "gender": "male",
         "name": {
-          "first": "Özgül",
-          "last": "Bektaş"
+          "first": "namık",
+          "last": "bektaş"
         },
         "location": {
-          "city": "Ankara",
+          "city": "Berlin",
           "country": "Almanaya"
         },
         "bilgi":{
-            "email": "deneme@example.com"
+            "email": "namık@gmail.com"
         },
         "picture": {
           "large": "https://avatars.githubusercontent.com/u/83498865?v=4",
@@ -58,14 +55,13 @@
         }
       },
       {
-        "gender": "male",
         "name": {
-          "first": "ismail",
-          "last": "Bektaş"
+          "first": "berk",
+          "last": "taltaş"
         },
         "location": {
-          "city": "Ankara",
-          "country": "colonbia"
+          "city": "Moskova",
+          "country": "Rusya"
         },
         "bilgi":{
             "email": "deneme@example.com"
@@ -77,17 +73,16 @@
         }
       },
       {
-        "gender": "male",
         "name": {
-          "first": "namık",
-          "last": "Bektaş"
+          "first": "janberd",
+          "last": "altaş"
         },
         "location": {
           "city": "sohum",
           "country": "abhazya"
         },
         "bilgi":{
-            "email": "deli@gmail.com"
+            "email": "janberdal@gmail.com"
         },
         "picture": {
           "large": "https://avatars.githubusercontent.com/u/83498865?v=4",
@@ -96,7 +91,6 @@
         }
       },
       {
-        "gender": "male",
         "name": {
           "first": "uslam",
           "last": "Bektaş"
@@ -106,7 +100,7 @@
           "country": "moğolistan"
         },
         "bilgi":{
-            "email": "deneme@example.com"
+            "email": "uslam12@gmail.com"
         },
         "picture": {
           "large": "https://avatars.githubusercontent.com/u/83498865?v=4",

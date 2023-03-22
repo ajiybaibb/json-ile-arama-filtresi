@@ -1,112 +1,44 @@
 {
-    "results": [
+    "user": [
       {
         "name": {
-          "first": "İbrahim Bekir",
-          "last": "Bektaş"
+          "mobilname": "Samsung Galaxy A20s"
         },
-        "location": {
-          "city": "Ankara",
-          "country": "Turkey"
+        "ozellik":{
+            "gb": "32gb",
+            "parmak": "evet",
+            "id": "evet",
+            "ram":"3bg"
         },
-        "bilgi":{
-            "email": "ajibaibrahimbekirbektas@gmail.com"
+        "belge":{
+            "garanti": "evet",
+            "kutulu": "evet",
+            "fiyat":"3.500 TL"
         },
         "picture": {
-          "large": "https://avatars.githubusercontent.com/u/83498865?v=4",
-          "medium": "https://avatars.githubusercontent.com/u/83498865?v=4",
-          "thumbnail": "https://avatars.githubusercontent.com/u/83498865?v=4"
+          "img": "https://static-00.iconduck.com/assets.00/samsung-icon-512x512-0o72hicf.png"
         }
       },
       {
         "name": {
-          "first": "Halil",
-          "last": "Bektaş"
+          "mobilname": "Samsung Galaxy A20s"
         },
-        "location": {
-          "city": "Ankara",
-          "country": "Türkiye"
+        "ozellik":{
+            "gb": "32gb",
+            "parmak": "evet",
+            "id": "evet",
+            "ram":"3bg"
         },
-        "bilgi":{
-            "email": "halilbektas@gmail.com"
+        "belge":{
+            "garanti": "evet",
+            "kutulu": "evet",
+            "fiyat":"3.500 TL"
         },
         "picture": {
-          "large": "https://avatars.githubusercontent.com/u/83498865?v=4",
-          "medium": "https://avatars.githubusercontent.com/u/83498865?v=4",
-          "thumbnail": "https://avatars.githubusercontent.com/u/83498865?v=4"
+          "img": "https://static-00.iconduck.com/assets.00/samsung-icon-512x512-0o72hicf.png"
         }
       },
-      {
-        "name": {
-          "first": "namık",
-          "last": "bektaş"
-        },
-        "location": {
-          "city": "Berlin",
-          "country": "Almanaya"
-        },
-        "bilgi":{
-            "email": "namık@gmail.com"
-        },
-        "picture": {
-          "large": "https://avatars.githubusercontent.com/u/83498865?v=4",
-          "medium": "https://avatars.githubusercontent.com/u/83498865?v=4",
-          "thumbnail": "https://avatars.githubusercontent.com/u/83498865?v=4"
-        }
-      },
-      {
-        "name": {
-          "first": "berk",
-          "last": "taltaş"
-        },
-        "location": {
-          "city": "Moskova",
-          "country": "Rusya"
-        },
-        "bilgi":{
-            "email": "deneme@example.com"
-        },
-        "picture": {
-          "large": "https://avatars.githubusercontent.com/u/83498865?v=4",
-          "medium": "https://avatars.githubusercontent.com/u/83498865?v=4",
-          "thumbnail": "https://avatars.githubusercontent.com/u/83498865?v=4"
-        }
-      },
-      {
-        "name": {
-          "first": "janberd",
-          "last": "altaş"
-        },
-        "location": {
-          "city": "sohum",
-          "country": "abhazya"
-        },
-        "bilgi":{
-            "email": "janberdal@gmail.com"
-        },
-        "picture": {
-          "large": "https://avatars.githubusercontent.com/u/83498865?v=4",
-          "medium": "https://avatars.githubusercontent.com/u/83498865?v=4",
-          "thumbnail": "https://avatars.githubusercontent.com/u/83498865?v=4"
-        }
-      },
-      {
-        "name": {
-          "first": "uslam",
-          "last": "Bektaş"
-        },
-        "location": {
-          "city": "ulan batur",
-          "country": "moğolistan"
-        },
-        "bilgi":{
-            "email": "uslam12@gmail.com"
-        },
-        "picture": {
-          "large": "https://avatars.githubusercontent.com/u/83498865?v=4",
-          "medium": "https://avatars.githubusercontent.com/u/83498865?v=4",
-          "thumbnail": "https://avatars.githubusercontent.com/u/83498865?v=4"
-        }
-      }
     ]
 }
+
+

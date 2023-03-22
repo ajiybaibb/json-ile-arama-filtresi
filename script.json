@@ -2,6 +2,24 @@
     "deneme": [
       {
         "name": {
+          "mobil": "Samsung Galaxy A20s"
+        },
+        "ee":{
+            "gb": "32gb",
+            "parmak": "evet",
+            "id": "evet",
+            "ram":"3bg"
+        },
+        "dd":{
+            "garanti": "evet",
+            "kutulu": "evet",
+            "fiyat":"3.500 TL"
+        },
+        "imgg": {
+          "img": "https://static-00.iconduck.com/assets.00/samsung-icon-512x512-0o72hicf.png"
+        }
+      },
+        "name": {
           "mobil": "Samsung Galaxy A20"
         },
         "ee":{
@@ -18,11 +36,116 @@
         "imgg": {
           "img": "https://static-00.iconduck.com/assets.00/samsung-icon-512x512-0o72hicf.png"
         }
-      }
-    ],
-    "deneme": [
-      {
-        "name": {
+      },
+"name": {
+          "mobil": "deneme"
+        },
+        "ee":{
+            "gb": "32gb",
+            "parmak": "evet",
+            "id": "evet",
+            "ram":"3bg"
+        },
+        "dd":{
+            "garanti": "evet",
+            "kutulu": "evet",
+            "fiyat":"3.500 TL"
+        },
+        "imgg": {
+          "img": "https://static-00.iconduck.com/assets.00/samsung-icon-512x512-0o72hicf.png"
+        }
+      },
+"name": {
+          "mobil": "oppo"
+        },
+        "ee":{
+            "gb": "32gb",
+            "parmak": "evet",
+            "id": "evet",
+            "ram":"3bg"
+        },
+        "dd":{
+            "garanti": "evet",
+            "kutulu": "evet",
+            "fiyat":"3.500 TL"
+        },
+        "imgg": {
+          "img": "https://static-00.iconduck.com/assets.00/samsung-icon-512x512-0o72hicf.png"
+        }
+      },
+"name": {
+          "mobil": "mi c444"
+        },
+        "ee":{
+            "gb": "32gb",
+            "parmak": "evet",
+            "id": "evet",
+            "ram":"3bg"
+        },
+        "dd":{
+            "garanti": "evet",
+            "kutulu": "evet",
+            "fiyat":"3.500 TL"
+        },
+        "imgg": {
+          "img": "https://static-00.iconduck.com/assets.00/samsung-icon-512x512-0o72hicf.png"
+        }
+      },
+"name": {
+          "mobil": "apple 7"
+        },
+        "ee":{
+            "gb": "32gb",
+            "parmak": "evet",
+            "id": "evet",
+            "ram":"3bg"
+        },
+        "dd":{
+            "garanti": "evet",
+            "kutulu": "evet",
+            "fiyat":"3.500 TL"
+        },
+        "imgg": {
+          "img": "https://static-00.iconduck.com/assets.00/samsung-icon-512x512-0o72hicf.png"
+        }
+      },
+"name": {
+          "mobil": "apple 11"
+        },
+        "ee":{
+            "gb": "32gb",
+            "parmak": "evet",
+            "id": "evet",
+            "ram":"3bg"
+        },
+        "dd":{
+            "garanti": "evet",
+            "kutulu": "evet",
+            "fiyat":"3.500 TL"
+        },
+        "imgg": {
+          "img": "https://static-00.iconduck.com/assets.00/samsung-icon-512x512-0o72hicf.png"
+        }
+      },
+"name": {
+          "mobil": "Samsung Galaxy b20"
+        },
+        "ee":{
+            "gb": "32gb",
+            "parmak": "evet",
+            "id": "evet",
+            "ram":"3bg"
+        },
+        "dd":{
+            "garanti": "evet",
+            "kutulu": "evet",
+            "fiyat":"3.500 TL"
+        },
+        "imgg": {
+          "img": "https://static-00.iconduck.com/assets.00/samsung-icon-512x512-0o72hicf.png"
+        }
+      },
+"name": {
           "mobil": "Samsung Galaxy A11"
         },
         "ee":{
@@ -40,70 +163,5 @@
           "img": "https://static-00.iconduck.com/assets.00/samsung-icon-512x512-0o72hicf.png"
         }
       }
-    ],
-"deneme": [
-      {
-        "name": {
-          "mobil": "oppo"
-        },
-        "ee":{
-            "gb": "32gb",
-            "parmak": "evet",
-            "id": "evet",
-            "ram":"3bg"
-        },
-        "dd":{
-            "garanti": "evet",
-            "kutulu": "evet",
-            "fiyat":"3.500 TL"
-        },
-        "imgg": {
-          "img": "https://static-00.iconduck.com/assets.00/samsung-icon-512x512-0o72hicf.png"
-        }
-      }
-    ],
-"deneme": [
-      {
-        "name": {
-          "mobil": "mi"
-        },
-        "ee":{
-            "gb": "32gb",
-            "parmak": "evet",
-            "id": "evet",
-            "ram":"3bg"
-        },
-        "dd":{
-            "garanti": "evet",
-            "kutulu": "evet",
-            "fiyat":"3.500 TL"
-        },
-        "imgg": {
-          "img": "https://static-00.iconduck.com/assets.00/samsung-icon-512x512-0o72hicf.png"
-        }
-      }
-    ],
-"deneme": [
-      {
-        "name": {
-          "mobil": "apple "
-        },
-        "ee":{
-            "gb": "32gb",
-            "parmak": "evet",
-            "id": "evet",
-            "ram":"3bg"
-        },
-        "dd":{
-            "garanti": "evet",
-            "kutulu": "evet",
-            "fiyat":"3.500 TL"
-        },
-        "imgg": {
-          "img": "https://static-00.iconduck.com/assets.00/samsung-icon-512x512-0o72hicf.png"
-        }
-      }
     ]
-}
-
-
+    

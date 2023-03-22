@@ -1,8 +1,8 @@
 {
-    "deneme": [
+    "user": [
       {
         "name": {
-          "mobil": "Samsung Galaxy A20s"
+          "mobil": "mi"
         },
         "ee":{
             "gb": "32gb",
@@ -19,9 +19,9 @@
           "img": "https://static-00.iconduck.com/assets.00/samsung-icon-512x512-0o72hicf.png"
         }
       },
-        {
+      {
         "name": {
-          "mobil": "Samsung Galaxy A20"
+          "mobil": "apple 6p"
         },
         "ee":{
             "gb": "32gb",
@@ -38,84 +38,8 @@
           "img": "https://static-00.iconduck.com/assets.00/samsung-icon-512x512-0o72hicf.png"
         }
       },
-        {
-"name": {
-          "mobil": "deneme"
-        },
-        "ee":{
-            "gb": "32gb",
-            "parmak": "evet",
-            "id": "evet",
-            "ram":"3bg"
-        },
-        "dd":{
-            "garanti": "evet",
-            "kutulu": "evet",
-            "fiyat":"3.500 TL"
-        },
-        "imgg": {
-          "img": "https://static-00.iconduck.com/assets.00/samsung-icon-512x512-0o72hicf.png"
-        }
-      },
-        {
-"name": {
-          "mobil": "oppo"
-        },
-        "ee":{
-            "gb": "32gb",
-            "parmak": "evet",
-            "id": "evet",
-            "ram":"3bg"
-        },
-        "dd":{
-            "garanti": "evet",
-            "kutulu": "evet",
-            "fiyat":"3.500 TL"
-        },
-        "imgg": {
-          "img": "https://static-00.iconduck.com/assets.00/samsung-icon-512x512-0o72hicf.png"
-        }
-      },
-        {
-"name": {
-          "mobil": "mi c444"
-        },
-        "ee":{
-            "gb": "32gb",
-            "parmak": "evet",
-            "id": "evet",
-            "ram":"3bg"
-        },
-        "dd":{
-            "garanti": "evet",
-            "kutulu": "evet",
-            "fiyat":"3.500 TL"
-        },
-        "imgg": {
-          "img": "https://static-00.iconduck.com/assets.00/samsung-icon-512x512-0o72hicf.png"
-        }
-      },
-        {
-"name": {
-          "mobil": "apple 7"
-        },
-        "ee":{
-            "gb": "32gb",
-            "parmak": "evet",
-            "id": "evet",
-            "ram":"3bg"
-        },
-        "dd":{
-            "garanti": "evet",
-            "kutulu": "evet",
-            "fiyat":"3.500 TL"
-        },
-        "imgg": {
-          "img": "https://static-00.iconduck.com/assets.00/samsung-icon-512x512-0o72hicf.png"
-        }
-      },
-        {
-"name": {
+      {
+        "name": {
           "mobil": "apple 11"
         },
         "ee":{
@@ -133,9 +57,9 @@
           "img": "https://static-00.iconduck.com/assets.00/samsung-icon-512x512-0o72hicf.png"
         }
       },
-        {
-"name": {
-          "mobil": "Samsung Galaxy b20"
+      {
+        "name": {
+          "mobil": "apple 5s"
         },
         "ee":{
             "gb": "32gb",
@@ -152,9 +76,47 @@
           "img": "https://static-00.iconduck.com/assets.00/samsung-icon-512x512-0o72hicf.png"
         }
       },
-        {
-"name": {
+      {
+        "name": {
+          "mobil": "Samsung Galaxy a5"
+        },
+        "ee":{
+            "gb": "32gb",
+            "parmak": "evet",
+            "id": "evet",
+            "ram":"3bg"
+        },
+        "dd":{
+            "garanti": "evet",
+            "kutulu": "evet",
+            "fiyat":"3.500 TL"
+        },
+        "imgg": {
+          "img": "https://static-00.iconduck.com/assets.00/samsung-icon-512x512-0o72hicf.png"
+        }
+      },
+      {
+        "name": {
           "mobil": "Samsung Galaxy A11"
+        },
+        "ee":{
+            "gb": "32gb",
+            "parmak": "evet",
+            "id": "evet",
+            "ram":"3bg"
+        },
+        "dd":{
+            "garanti": "evet",
+            "kutulu": "evet",
+            "fiyat":"3.500 TL"
+        },
+        "imgg": {
+          "img": "https://static-00.iconduck.com/assets.00/samsung-icon-512x512-0o72hicf.png"
+        }
+      },
+      {
+        "name": {
+          "mobil": "Samsung Galaxy A20"
         },
         "ee":{
             "gb": "32gb",
@@ -172,4 +134,6 @@
         }
       }
     ]
-    
+}
+
+
